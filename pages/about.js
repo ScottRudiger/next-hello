@@ -15,3 +15,16 @@ export default () => (
   </Layout>
 );
 
+// import Layout from '../components/Layout';
+
+// const Page = () => (
+//   <p>This is the about page</p>
+// );
+
+// export default () => <Layout page={Page}/>;
+
+// import Layout from '../components/Layout';
+
+// const content = <p>This is the about page</p>;
+
+// export default () => (<Layout content={content}/>);
